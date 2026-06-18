@@ -1,47 +1,6 @@
 ## 📖 How to Find the Original LeetCode Problem
 
-Each solution in this repository follows the naming convention:
-
-```text
-<problem-number>.<problem-name>.cpp
-```
-
-### Examples
-
-```text
-1.two-sum.cpp
-2.add-two-numbers.cpp
-```
-
-### Ways to Find the Original Problem
-
-#### 1. Using the File Name
-
-The file name contains both the LeetCode problem number and title.
-
-For example:
-
-```text
-1.two-sum.cpp
-```
-
-corresponds to **LeetCode Problem #1 - Two Sum**.
-
-#### 2. Using the Problem Number
-
-The number at the beginning of each file matches the official LeetCode problem number.
-
-For example:
-
-```text
-2.add-two-numbers.cpp
-```
-
-corresponds to **LeetCode Problem #2 - Add Two Numbers**.
-
-#### 3. Using the Problem Header
-
-Every solution file contains a header similar to:
+Every solution file contains a LeetCode-generated header similar to:
 
 ```cpp
 /*
@@ -51,9 +10,11 @@ Every solution file contains a header similar to:
  */
 ```
 
+### 🔍 Find a Problem from Its Solution
+
 You can directly search the problem title shown in the header (e.g., **[1] Two Sum**) on LeetCode to access the original problem statement.
 
-### 🔍 Quick Tip
+### 🔎 Search Within This Repository
 
 GitHub's search feature can be used to search for a problem number or title within the repository. Since every solution contains the LeetCode-generated header, searching for:
 
