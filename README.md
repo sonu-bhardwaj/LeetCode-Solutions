@@ -25,3 +25,15 @@ GitHub's search feature can be used to search for a problem number or title with
 or any other problem title will quickly locate the corresponding solution file.
 
 > **Note:** This repository contains only solutions. Problem statements, examples, and constraints are available on the official LeetCode platform.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/sonu-bhardwaj/LeetCode-Solutions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/sonu-bhardwaj/LeetCode-Solutions/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
